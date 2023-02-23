@@ -1,0 +1,37 @@
+
+✔ Click back button in card match screen doesnt refresh the score in levels @done(20-09-26 13:43)
+✔ Splash Screen to be redesigned with lottie @done(20-09-29 16:57)
+☐ App Icon
+✔ About Screen with version number etc @done(20-09-26 13:43)
+✔ Share option @done(20-09-26 13:43)
+✔ Star values @done(20-09-26 13:42)
+✔ Dialog box UI @done(20-09-14 09:54)
+✔ Fallback to text if no value in image @done(20-09-14 08:39)
+✔ Remove border in match card @done(20-09-12 19:47)
+✔ Voice based sound instead the default @done(20-09-14 09:53)
+✘ Line to connect the matching cards @cancelled(20-09-26 13:43)
+✔ Play sound according to settings @done(20-09-12 11:14)
+✘ First time hand symbol @cancelled(20-09-14 12:10)
+☐ Bug - Male voice in mobile 
+☐ Google font to be made offline
+✘ Timer to be made seperate widget @cancelled(20-09-26 13:42)
+☐ Google analytics
+✔ First time best score null @done(20-09-14 09:53)
+☐ Crash analytics
+✔ Version number @done(20-09-26 13:42)
+✘ dispose ad in home screen @cancelled(20-09-29 16:56)
+✔ setupResponsiveSizing in main.dart file @done(20-09-25 10:58)
+✘ Navigate to next level - Handle offline/online scenario @cancelled(20-10-05 15:48)
+☐ Customized app for the users/org
+☐ Ad not disappearing in Home screen sometimes
+☐ Update pub packages
+☐ InApp upgrade notification
+☐ Roadmap -> Hints
+☐ Country wise theme
+
+'Cmd/Ctrl+Enter' // Triggers `Todo: Toggle Box`
+'Alt+Enter' // Triggers `Todo: Toggle Box`
+'Alt+D' // Triggers `Todo: Toggle Done`
+'Alt+C' // Triggers `Todo: Toggle Cancelled`
+'Alt+S' // Triggers `Todo: Toggle Start`
+'Cmd/Ctrl+Shift+A' // Triggers  `Todo: Archive`

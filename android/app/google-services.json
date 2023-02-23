@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866165325939",
+    "firebase_url": "https://matchme-dev-5881c.firebaseio.com",
+    "project_id": "matchme-dev-5881c",
+    "storage_bucket": "matchme-dev-5881c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866165325939:android:100f3d10168d93f1206a06",
+        "android_client_info": {
+          "package_name": "com.incresco.matchit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866165325939-bi0h2001eh7c7ia0kkjdmvf5op5o24r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJ5AIEZAXtGQk_s7jsLhbFRye-2k4SBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866165325939-bi0h2001eh7c7ia0kkjdmvf5op5o24r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

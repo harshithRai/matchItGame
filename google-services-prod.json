@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545877936867",
+    "firebase_url": "https://matchit-857f9.firebaseio.com",
+    "project_id": "matchit-857f9",
+    "storage_bucket": "matchit-857f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545877936867:android:d5c78c9ad9f9cc82cd53d6",
+        "android_client_info": {
+          "package_name": "com.incresco.matchit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545877936867-pt5laukcjlbvjtpr9be18hg8bprjedge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLV-CVKlA0UrzcdzrN6jA1xsBAyhCCLu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545877936867-pt5laukcjlbvjtpr9be18hg8bprjedge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545877936867-3t4illmngd7efloite97c364p088oiur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.incresco.matchit"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7863871388471114~7674099056"
+    }
+  ],
+  "configuration_version": "1"
+}
